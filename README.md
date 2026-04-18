@@ -4,12 +4,12 @@ Configuration file repository for venera
 
 ## 使用方式
 
-> 打开 [Venera](https://github.com/venera-app/venera)，依次点击：**主页 - 漫画源 - 漫画源列表**，然后把上面的 url 替换，刷新即可。 
+> 打开 [Venera](https://github.com/venera-app/venera)，依次点击：**主页 - 漫画源 - 漫画源列表**，然后把上面的 url 替换，刷新。之前默认源地址安装的插件最好卸载重装下，不然会有 404 报错。
 > 能正常访问 GitHub 时优先使用 GitHub Raw，网络不便时使用 jsDelivr 镜像。
 > 
-> GitHub: `https://raw.githubusercontent.com/gbandszxc/venera-configs/main/index.json`
+> GitHub: `https://raw.githubusercontent.com/gbandszxc/venera-configs/refs/heads/main/index.json`
 > 
-> jsDelivr: `https://cdn.jsdelivr.net/gh/gbandszxc/venera-configs@main/index.json`
+> jsDelivr: `https://cdn.jsdelivr.net/gh/gbandszxc/venera-configs@latest/index.json`
 >
 
 ## Create a new configuration
